@@ -1,0 +1,4 @@
+django-firstapp
+===============
+
+myfirstdjangowork
